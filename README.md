@@ -1,2 +1,5 @@
 # BRIO-TalkerFacing
-Analysis notebooks for talker-facing detection at a hearing-aid user under listener rotation using the BRIO dataset.
+
+This repository will host the official implementation of the paper “Talker-Facing Detection at a Hearing-Aid User under Listener Rotation”, submitted to ICASSP 2027.
+
+The analysis notebooks and instructions will be released upon publication.
